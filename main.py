@@ -1,0 +1,1 @@
+print("AI Compitetor Research Tool!")
